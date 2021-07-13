@@ -1,0 +1,10 @@
+/* top players style */
+.players{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+
+}
+.players img{
+    width: 56px;
+    width: 56px;
+}
